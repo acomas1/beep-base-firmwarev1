@@ -205,6 +205,7 @@ Source_V1.5.13/Code/nRF/PRJ/ses/Output/Debug/Obj/BeepBase/DS18B20_app.d
 Source_V1.5.13/Code/nRF/PRJ/ses/Output/Debug/Obj/BeepBase/DS18B20_app.o
 Source_V1.5.13/Code/nRF/PRJ/ses/Output/Debug/Obj/BeepBase/DS18B20.d
 Source_V1.5.13/Code/nRF/PRJ/ses/Output/Debug/Obj/BeepBase/DS18B20.o
+Source_V1.5.13/Code/nRF/PRJ/ses.DS_Store
 Source_V1.5.13/Code/nRF/PRJ/ses/Output/Debug/Obj/BeepBase/ds3231_app.d
 Source_V1.5.13/Code/nRF/PRJ/ses/Output/Debug/Obj/BeepBase/ds3231_app.o
 Source_V1.5.13/Code/nRF/PRJ/ses/Output/Debug/Obj/BeepBase/eeprom-board.d
@@ -1127,3 +1128,4 @@ Source_V1.5.13/Code/nRF/PRJ/ses/Output/Release/Obj/BeepBase/uart.o
 Source_V1.5.13/Code/nRF/PRJ/ses/Output/Release/Obj/BeepBase/utilities.d
 Source_V1.5.13/Code/nRF/PRJ/ses/Output/Release/Obj/BeepBase/utilities.o
 Source_V1.5.13/Code/nRF/PRJ/ses/signal-desktop-keyring.gpg
+.DS_Store
